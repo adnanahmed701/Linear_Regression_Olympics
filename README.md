@@ -1,7 +1,7 @@
 # Linear_Regression_Olympics
 In this project, we'll build a linear regression algorithm from scratch. We'll create our algorithm using python and pandas.  We'll then compare it to the reference implementation from scikit-learn.
 
-##File overview:
+## File overview:
 
 * `regression.ipynb` - the full code from this project
 
